@@ -1,4 +1,4 @@
 modulo-big-number
-==============
+=================
 
-Big number modulo.
+Big number modulus
